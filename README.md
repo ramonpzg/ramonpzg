@@ -1,6 +1,6 @@
 # Hi there, I'm Ramon 👋
 
-I am a data scientist, a bit of a researcher, and an educator. I grew up playing baseball in the Dominican Republic, and picked up coding while at uni after MS Excel and I had a dissagreement regarding the size of data I could analyze with it, among others. The rest, alongside an apology for any poorly-written code found here, is history.
+I am a data scientist, a bit of a researcher, and an educator. I grew up playing baseball in the Dominican Republic, and picked up coding while at uni after MS Excel and I had a dissagreement regarding the size of the data it would let me analyze, among others issues, of course. The rest, alongside an apology for any poorly-written code found here, is history.
 
 A few things about me
 
