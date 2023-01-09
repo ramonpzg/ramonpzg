@@ -4,9 +4,9 @@ I am a data scientist, a bit of a researcher, and an educator. I grew up playing
 
 A few things about me
 
-- :mortar_board: I teach data science and machine learning engineering for a living, but I also try to do it often as I can at different conferences.
-- 🔭 I’m currently working on too many projects for my own good. These include a tech-ed non-profit organization in the Dominican Republic and a series of lessons on different ML Deployment strategies and architectures.
-- :nerd_face: I’m currently learning how to automate the initial steps of a data science project via CI/CD pipelines to go as quickly as possible from data and models to a POC.
-- :books: I’m currently reading, Effective Data Science Infrastructure.
+- :mortar_board: I teach data science and machine learning engineering for a living, but I also try to do it as often as I can at different conferences.
+- 🔭 I’m currently working on too many projects for my own good, and these include a tech-ed non-profit organization in the Dominican Republic and a series of lessons on different ML Deployment strategies and architectures.
+- :nerd_face: I’m currently learning how to automate the initial steps of a data science project via a variety of tools to go as quickly as possible from data and models to a POC.
+- :books: I’m currently reading, Effective Data Science Infrastructure, Fast AI, and Python for DevOps.
 - :mountain_biking_man: I’m constantly mountain biking.
 - 📫 You can reach me at ramonpzg01@gmail.com
