@@ -9,4 +9,3 @@ A few things about me
 - :nerd_face: I’m currently learning how to automate the initial steps of a data science project via a variety of tools to go as quickly as possible from data and models to a POC.
 - :books: I’m currently reading, Effective Data Science Infrastructure, Fast AI, and Python for DevOps.
 - :mountain_biking_man: I’m constantly mountain biking.
-- 📫 You can reach me at ramonpzg01@gmail.com
